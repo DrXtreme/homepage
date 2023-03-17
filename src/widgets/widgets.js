@@ -73,6 +73,7 @@ import unmanic from "./unmanic/widget";
 import uptimekuma from "./uptimekuma/widget";
 import watchtower from "./watchtower/widget";
 import xteve from "./xteve/widget";
+import dxpower from "./dxpower/widget"
 
 const widgets = {
   adguard,
@@ -152,6 +153,7 @@ const widgets = {
   uptimekuma,
   watchtower,
   xteve,
+  dxpower,
 };
 
 export default widgets;

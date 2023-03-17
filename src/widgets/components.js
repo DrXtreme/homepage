@@ -79,6 +79,7 @@ const components = {
   uptimekuma: dynamic(() => import("./uptimekuma/component")),
   watchtower: dynamic(() => import("./watchtower/component")),
   xteve: dynamic(() => import("./xteve/component")),
+  dxpower: dynamic(() => import("./dxpower/component")),
 };
 
 export default components;
